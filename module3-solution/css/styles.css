@@ -1,0 +1,159 @@
+*{
+	box-sizing: border-box;
+  font-family: helvetica;
+}
+
+.navbar-brand {
+  font-size: 2em;
+  border: 0 0 40px 20px;
+  color: #FFFFFF;
+}
+
+#header-nav {
+  border: 0;
+  background-color: #086972;
+  color: #FFFFFF;
+  border-radius: 0px;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid pink;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+.nav-header {
+  background-color: #FFFFFF;
+}
+
+.nav-brand {
+  color: #FFFFFF;
+  font-size: 1.5em;
+}
+
+#nav-list {
+  color: white;
+}
+
+hr {
+  border-color: white;
+}
+
+.item {
+  color: white;
+  font-size: 1.8em;
+  font-family: bold;
+}
+
+#chicken {
+	background-color: #a03232;
+  text-align: center;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+  
+  font-family:sans serif;
+  font-weight: bold;
+  font-size: 135%;
+
+
+  width: 40%;
+  float :right;
+  margin-bottom: 5%;
+  margin-top: 0;
+  padding: 6px;
+}
+
+#beef{
+	background-color: #facf5a ;
+  text-align: center;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+  
+  
+  font-family:sans serif;
+  font-weight: bold;
+  font-size: 135%;
+  
+
+
+  width: 40%;
+  float:right;
+  margin-bottom: 5%;
+  margin-top: 0;
+  padding: 6px;
+}
+
+#sushi{
+	background-color: #e2434b ;
+  text-align: center;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+  
+  
+  font-family:sans serif;
+  font-weight: bold;
+  font-size: 135%;
+  width: 40%;
+  float :right;
+  margin-bottom: 5%;
+  margin-top: 0;
+  padding: 6px;
+}
+
+#chicken-div{
+	margin-top:10px;
+	margin-bottom: 10px;
+}
+
+#beef-div{
+	margin-top:10px;
+	margin-bottom: 10px;
+}
+
+#sushi-div{
+	margin-top:10px;
+	margin-bottom: 10px;
+}
+
+h1 {
+  font-weight: bold;
+  color:#f2f2f2;
+	
+}
+
+body {
+	
+	background-color: #575151;
+
+}
+
+p {
+	padding: 10px;
+	margin: 0;
+}
+
+.container {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 10px;
+  width :100%;
+}
+
+section {
+	border:	1px solid black; 
+  position: relative;
+	background-color: #e7b3b3;
+	width: 100%;
+	font-family: calibiri body,sans serif;
+	color: black;
+}
+
+section p{
+  padding: 50px 10px 10px 10px;
+  text-align: justify;
+}
+
